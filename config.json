@@ -1,0 +1,4 @@
+{
+	"port": "/dev/tty",
+	"baudrate": 33454
+}
