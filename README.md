@@ -14,3 +14,6 @@ npm install
 node server.js
 ```
 
+##Web
+
+* open http://localhost:3000/ 
